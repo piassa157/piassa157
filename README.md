@@ -1,7 +1,7 @@
 # Welcome to my Profile :octocat:
 
 [![](https://img.shields.io/badge/-@lindaum98-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@piassa157-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@piassa157-%23181717?style=flat-square&logo=github)](https://github.com/piassa157)
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielpiassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-g-piassa/)](https://www.linkedin.com/in/gabriel-g-piassa/)
 [![Gmail Badge](https://img.shields.io/badge/-ggpiassa99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggpiassa99@gmail.com)](mailto:ggpiassa99@gmail.com)
 
