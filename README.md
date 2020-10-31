@@ -3,10 +3,11 @@
 [![](https://img.shields.io/badge/-@lindaum98-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@piassa157-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielpiassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-g-piassa/)](https://www.linkedin.com/in/gabriel-g-piassa/)
+[![Gmail Badge](https://img.shields.io/badge/-ggpiassa99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggpiassa99@gmail.com)](mailto:ggpiassa99@gmail.com)
 
-𝑰 ❤️ FullStack 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+𝑰<img src="https://img.icons8.com/officexs/16/000000/code.png"/> FullStack Developer
 
-:computer: Junior Developer.
+:computer: working as a junior developer in Marry Perry Paris.
 
 :pushpin: About me: I'm Gabriel Piassa, I'm 19 years old and I live in Campinas, Sp-Brazil
 
