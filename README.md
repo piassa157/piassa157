@@ -1,33 +1,35 @@
-### Welcome to my GitHub 💜
+# Welcome to my Profile :octocat:
 
-Hello nice to meet you I am Gabriel Piassa from Campinas, SP, Brazil.
+[![](https://img.shields.io/badge/-@lindaum98-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@piassa157-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielpiassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-g-piassa/)](https://www.linkedin.com/in/gabriel-g-piassa/)
 
+𝑰 ❤️ FullStack 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
+:computer: Junior Developer.
 
-FullStack developer in:
-
-
-<img src="https://img.icons8.com/color/48/000000/php.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+:pushpin: About me: I'm Gabriel Piassa, I'm 19 years old and I live in Campinas, Sp-Brazil
 
 
-<img src="https://img.icons8.com/nolan/96/saving-book.png"/>
+## 
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 
 
-<!--
-**piassa157/piassa157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 𝗦𝘁𝗮𝘁𝘀
 
-Here are some ideas to get you started:
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=piassa157&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=piassa157)
