@@ -7,7 +7,7 @@ Hello nice to meet you I am gabriel and 19 years old.
 FullStack developer in:
 
 
-<img src="https://img.icons8.com/color/48/000000/php.png"/
+<img src="https://img.icons8.com/color/48/000000/php.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
