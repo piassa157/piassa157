@@ -4,8 +4,7 @@ Hello nice to meet you I am gabriel and 19 years old.
 
 FullStack developer in PHP, JavaScript and Python technologies.
 
-<a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
-
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 <!--
 **piassa157/piassa157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
