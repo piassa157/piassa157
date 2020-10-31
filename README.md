@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 💜
 
-Hello nice to meet you I am gabriel and 19 years old.
+Hello nice to meet you I am Gabriel Piassa from Campinas, SP, Brazil.
 
 
 
@@ -12,6 +12,10 @@ FullStack developer in:
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
+
+
+<img src="https://img.icons8.com/nolan/96/saving-book.png"/>
+
 
 <!--
 **piassa157/piassa157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
