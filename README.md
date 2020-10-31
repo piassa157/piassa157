@@ -2,7 +2,19 @@
 
 Hello nice to meet you I am gabriel and 19 years old.
 
-FullStack developer in PHP, JavaScript and Python technologies.
+
+
+FullStack developer in:
+
+Php
+<img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
+
+JavaScript
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+Python
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <!--
