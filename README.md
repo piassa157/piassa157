@@ -29,7 +29,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=piassa157&show_icons=true&theme=dracula)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
