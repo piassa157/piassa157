@@ -13,7 +13,6 @@
 
 
 ## 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/flask?color=red&label=Flask&logo=flask&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,6 +29,8 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=piassa157&show_icons=true&theme=dracula)
 
+## Languages
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/piassa157/github-readme-stats)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
