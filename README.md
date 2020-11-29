@@ -9,11 +9,11 @@
 
 :computer: working as a junior developer in Marry Perry Paris.
 
-:pushpin: About me: I'm Gabriel Piassa, I'm 19 years old and I live in Campinas, Sp-Brazil
+:pushpin: About me: I'm Gabriel Piassa, I'm 19 years old and I live in Campinas, Sp-Brazil. I Love python, php and JavaScript
 
 
 ## 
-
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/flask?color=red&label=Flask&logo=flask&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
