@@ -30,7 +30,7 @@
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=piassa157&show_icons=true&theme=dracula)
 
 ## Languages
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/piassa157/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Piassa157&theme=blue-green)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
