@@ -28,7 +28,12 @@
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=piassa157&show_icons=true&theme=dracula)
 
 ## Languages
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Piassa157&theme=blue-green)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Piassa157&show_icons=true&theme=dracula)
+
+## Fav repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=typescript-node-api&theme=dracula)](https://github.com/anuraghazra/typescript-node-api)
+
+
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
