@@ -31,7 +31,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Piassa157&show_icons=true&theme=dracula)
 
 ## Fav repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=typescript-node-api&theme=dracula)](https://github.com/piassa157/typescript-node-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=ts-adonis&theme=dracula)](https://github.com/piassa157/ts-adonis)
 
 
 
