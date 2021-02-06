@@ -33,7 +33,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=Nestjs-api-ts&theme=dracula)](https://github.com/piassa157/Nestjs-api-ts)
 
 ## HackerRank tests
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=first-test-hacker-rank&theme=dracula)](https://github.com/piassa157/first-test-hacker-rank)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=first-test-hacker-rank&theme=dracula)](https://github.com/piassa157/first-test-hacker-rank)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=piassa157&repo=second-test-hacker-rank&theme=dracula)](https://github.com/piassa157/second-test-hacker-rank)
 
 ## About my dream <img src="https://img.icons8.com/office/24/000000/partly-cloudy-night--v2.png"/>
 Becoming a great developer to teach the world how a line of code can change your future
