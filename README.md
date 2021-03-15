@@ -8,7 +8,7 @@
 
 <img src="https://img.icons8.com/officexs/16/000000/code.png"/> 𝑰 FullStack Developer
 
-<img src="https://img.icons8.com/plasticine/16/000000/work.png"/> working as a fullstack developer in Marry Perry Paris.
+<img src="https://img.icons8.com/plasticine/16/000000/work.png"/> working as a Backend Java in Art IT, Logicalis and Claro.
 
 <img src="https://img.icons8.com/cute-clipart/16/000000/ask-question.png"/> About me: I'm Gabriel Piassa, I'm 20 years old and I live in Campinas, Sp-Brazil. I Love python, TypeScript and JavaScript
 
