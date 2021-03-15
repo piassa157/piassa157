@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4NqhuhmQ)
 
 
-<img src="https://img.icons8.com/officexs/16/000000/code.png"/> 𝑰 FullStack Developer
+<img src="https://img.icons8.com/officexs/16/000000/code.png"/> Backend Developer
 
 <img src="https://img.icons8.com/plasticine/16/000000/work.png"/> working as a Backend Java in Art IT, Logicalis and Claro.
 
