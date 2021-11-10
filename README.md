@@ -1,6 +1,5 @@
 # Welcome to my Profile <img src="https://img.icons8.com/clouds/32/000000/github.png"/>
 
-[![](https://img.shields.io/badge/-@lindaum98-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/lindaum98)
 [![](https://img.shields.io/badge/-@piassa157-%23181717?style=flat-square&logo=github)](https://github.com/piassa157)
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielpiassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-g-piassa/)](https://www.linkedin.com/in/gabriel-g-piassa/)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4NqhuhmQ)
