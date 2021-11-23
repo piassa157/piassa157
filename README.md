@@ -38,5 +38,5 @@ func hello() string{
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 
-### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+### Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=piassa157)
