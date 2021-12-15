@@ -1,0 +1,6 @@
+baseURL = 'https://piassa157.github.io/'
+languageCode = 'en-us'
+title = 'Gabriel G Piassa'
+theme = 'hugo-theme-shell'
+[permalinks]
+  posts = '/:filename/'
