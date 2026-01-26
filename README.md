@@ -1,42 +1,54 @@
-# Hello! <img src="https://img.icons8.com/clouds/32/000000/github.png"/>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hello! 👋 I'm Gabriel Piassa</h1>
+<p align="center">
+  Software Engineer • Go lover • Linux daily user • Building scalable stuff 🚀
+</p>
 
-### Social media
-[![](https://img.shields.io/badge/-@piassa157-%23181717?style=flat-square&logo=github)](https://github.com/piassa157)
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielpiassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-g-piassa/)](https://www.linkedin.com/in/gabriel-g-piassa/)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4NqhuhmQ)
+<p align="center">
+  <a href="https://github.com/piassa157">
+    <img src="https://img.shields.io/badge/GitHub-@piassa157-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-g-piassa/">
+    <img src="https://img.shields.io/badge/LinkedIn-gabrielpiassa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/4NqhuhmQ">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.icons8.com/clouds/64/000000/github.png"/>
+</p>
 
+---
+
+## 👨‍💻 About me
+
+- 🧠 **Role:** Software Engineer  
+- 🌎 **Languages:** pt-BR, en-US  
+- 🎯 **Goal:** Becoming a great developer to teach the world how a line of code can change your future  
+- ⚡ **Focus:** Backend, data, automation, and cloud-native tools  
+
+---
+
+## 🧩 A bit of me in Go
 
 ```go
 package me
 
-import "myprofile"
+import "fmt"
 
-func me(){
+func main() {
+    myName := "Gabriel Piassa"
+    myRole := "Software Engineer"
+    myLanguages := []string{"pt_BR", "en_US"}
 
-	my_name := "Gabriel Piassa"
-	my_role := "Software Engineer"
-	my_language := []string("pt_BR", "en_US")
+    myDream("Becoming a great developer to teach the world how a line of code can change your future")
 
-	mydream("Becoming a great developer to teach the world how a line of code can change your future")
-	hello()
+    fmt.Printf("Hello! Welcome to my profile 👋\n")
+    fmt.Printf("Name: %s | Role: %s | Languages: %v\n", myName, myRole, myLanguages)
 }
 
-
-func hello() string{
-	myprofile.println("Hello! Welcome to my profile")
+func myDream(message string) {
+    fmt.Println("Dream:", message)
 }
-```
-
-## Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-
-
-### Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=piassa157)
